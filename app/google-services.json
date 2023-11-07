@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651949447416",
+    "project_id": "camelx-2422b",
+    "storage_bucket": "camelx-2422b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651949447416:android:7be61f7ddcf912f4dcc30d",
+        "android_client_info": {
+          "package_name": "com.trend.camelx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwiXZor4IINTIIV9ODeTAWmSc41aBGEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
