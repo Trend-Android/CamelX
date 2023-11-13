@@ -48,6 +48,7 @@ import com.ramcosta.composedestinations.navigation.DestinationsNavigator
 import com.trend.camelx.R
 import com.trend.camelx.screens.Components.CamelButton
 import com.trend.camelx.screens.Components.CamelEditText
+import com.trend.camelx.screens.destinations.HomeScreenDestination
 import com.trend.camelx.screens.destinations.RegisterScreenDestination
 import com.trend.camelx.ui.theme.CoffeColor
 import com.trend.camelx.ui.theme.IbmFont
@@ -185,7 +186,7 @@ fun LoginScreen(
             Spacer(modifier = Modifier.height(32.dp))
 
             CamelButton(text = "دخول"){
-
+                navigator.navigate(HomeScreenDestination())
             }
 
             Spacer(modifier = Modifier.height(16.dp))
